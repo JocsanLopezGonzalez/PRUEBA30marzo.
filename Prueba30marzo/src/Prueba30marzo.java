@@ -32,6 +32,9 @@ public class Prueba30marzo {
         System.out.println("Zona 1 Canton cementerio Chiantla");
         System.out.println("45883960");
      
+        System.out.println("Jocsan Abisaí López González");
+        System.out.println("Zona 11, Huehuetenango, Huehuetenango");
+        System.out.Println("56158681");
     }
     
 }
