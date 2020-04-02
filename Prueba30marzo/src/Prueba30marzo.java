@@ -28,6 +28,10 @@ public class Prueba30marzo {
         System.out.println("11  CALLE 2-43 ZONA 5 COLONIA LOS ENCINOS");
         System.out.println("33361433");
      
+        System.out.println("Denis Joel Cifuentes Cano");
+        System.out.println("Zona 1 Canton cementerio Chiantla");
+        System.out.println("45883960");
+     
     }
     
 }
